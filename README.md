@@ -1,0 +1,2 @@
+# Automated-Financial-Report-Generation-For-Standered-Chartered-Bank-London.
+This project automates the generation of financial reports for stock analysis, specifically focused on Standard Chartered Bank, The reports in  key financial metrics, stock performance insights, and visualizations, all packaged into a PDF file, can be scheduled to run at specific intervals (daily, weekly, or monthly) for continuous analysis.
